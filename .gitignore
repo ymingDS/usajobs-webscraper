@@ -1,3 +1,10 @@
+# exclude files:
+excluded-files/
+# revmoe the folder from tracking
+git rm -r --cached excluded-files/ 
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
