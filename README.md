@@ -4,8 +4,10 @@ This folder includes all necessary files we need to run the scraping program in 
 # data
 - **jobposting_table.csv**: is the primary & cleaned table in INSIGHT Database. Most of USAJOBS Control Numbers are unique. 
 
-# json-to-html
-This folder includes MY code for transferring scraped HTML to JSON format. (not completed yet)
+# my-scraping
+This folder includes MY code for:
+1. Web scraping notebook code for download the html from usajobs
+2. transferring scraped HTML to JSON format. (not completed yet)
 
 
 # Archive
